@@ -1,0 +1,2 @@
+# assemble
+CPU8086
